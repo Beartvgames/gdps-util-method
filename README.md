@@ -1,3 +1,3 @@
 # gdps-util-method
 
-# getLinkSong
+## getLinkSong
