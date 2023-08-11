@@ -10,7 +10,10 @@ Don't forget to install the necessary packages:
 npm install request
 ```
 
-**Example of Use**```const song = await getLinkSong(73);```
+**Example of Use** 
+```
+const song = await getLinkSong(73);
+```
 
 Response 
 ``` 
