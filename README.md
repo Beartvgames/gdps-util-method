@@ -11,5 +11,5 @@ Don't forget to install the necessary packages:
 **Example of Use**```const song = await getLinkSong(73);```
 
 Response ```js 
-http://audio.ngfiles.com/587000/587870_NK---Poltergeist-OLD-mix.mp3
-```
+http://audio.ngfiles.com/587000/587870_NK---Poltergeist-OLD-mix.mp3```
+
