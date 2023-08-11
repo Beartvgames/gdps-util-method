@@ -1,3 +1,5 @@
+const request = require('request');
+
 function getLinkSong(songID) {
   const secret = 'Wmdf2893gb7';
   const songInfoUrl = 'http://YOURGDPS/getGJSongInfo.php';
